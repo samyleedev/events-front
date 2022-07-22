@@ -1,0 +1,11 @@
+.LoginPage {
+  height: 100vh;
+  .body {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: url("../../assets/nantes-scaled.jpeg") center/cover;
+  }
+}
